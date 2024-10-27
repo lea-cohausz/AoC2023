@@ -1,0 +1,1 @@
+Initially a bit worried about the parsing but it turns out that both parts were easily solved using regular expressions.
